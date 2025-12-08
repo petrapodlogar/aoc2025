@@ -1,4 +1,4 @@
-# Advent of Code 2025 | podlogarpetra
+# Advent of Code 2025 | petrapodlogar
 
 Repository for Advent of Code 2025
 
